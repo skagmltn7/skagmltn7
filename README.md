@@ -8,9 +8,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskagmltn7&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br/>
 
-##### Hello, I'm **Heesu**.<br>
-##### I aspire to be a backend developer and live a fulfilling life full of enjoyment.<br>
-##### Watch how I grow into a better backend developer and maintain my curiosity and passion for programming!<br><br>
+Hello, I'm **Heesu**.<br>
+ I aspire to be a backend developer and live a fulfilling life full of enjoyment.<br>
+ Watch how I grow into a better backend developer and maintain my curiosity and passion for programming!<br><br>
 
 
 ### :muscle: Studying<br>
