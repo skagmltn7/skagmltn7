@@ -1,22 +1,22 @@
 <div align="center">
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskagmltn7&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
+
 ### :stuck_out_tongue_closed_eyes: Introduction
   <picture>
     <img src="https://user-images.githubusercontent.com/133394749/238045543-6f78902c-e2f9-4f44-9ee8-062734fa6f1e.gif" width="300" height="auto"/>
   </picture>
-
-<a href="https://skagmltn7.github.io">
-  <img src="https://img.shields.io/badge/Blog-0000FF?style=flat-square&logo=buymeacoffee&logoColor=white"/> </a>
-<a href="mailto:skagmltn7@ajou.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskagmltn7&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
   <br/>
 
-Hello, I'm **Heesu**.<br>
- I aspire to be a backend developer and live a fulfilling life full of enjoyment.<br>
- Watch how I grow into a better backend developer and maintain my curiosity and passion for programming!<br><br>
+  Hello, I'm **Heesu**.</br>
+ I aspire to be a backend developer and live a fulfilling life full of enjoyment.</br>
+ Watch how I grow into a better backend developer and maintain my curiosity and passion for programming!</br></br>
+<a href="https://skagmltn7.github.io">
+  <img src="https://img.shields.io/badge/Blog-0000FF?style=flat-square&logo=buymeacoffee&logoColor=white"/> 
+</a>
+<a href="mailto:skagmltn7@ajou.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+</a>
 
 
 ### :muscle: Studying<br>
