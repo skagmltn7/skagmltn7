@@ -40,6 +40,4 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hisue7">
 
 <br>
-
-![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=skagmltn7&theme=monokai&show_icons=true)
 </div>
