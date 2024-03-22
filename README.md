@@ -12,23 +12,23 @@
  I aspire to be a backend developer and live a fulfilling life full of enjoyment.</br>
  Watch how I grow into a better backend developer and maintain my curiosity and passion for programming!</br></br>
 <a href="https://skagmltn7.github.io">
-  <img src="https://img.shields.io/badge/Blog-0000FF?style=flat-square&logo=buymeacoffee&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Blog-0000FF?style=flat-square&logo=buymeacoffee&logoColor=white" alt=""/> 
 </a>
 <a href="mailto:skagmltn7@ajou.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt=""/> 
 </a>
 
 
 ### :muscle: Studying<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt=""/>
 
 <br>
 
 <br>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hisue7">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hisue7" alt="">
 
 <br>
 </div>
