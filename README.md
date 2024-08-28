@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt=""/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt=""/>
 
 <br>
 
